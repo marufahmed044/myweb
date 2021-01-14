@@ -1,0 +1,163 @@
+a:hover{
+    text-decoration: none;
+}
+#header{
+    background: tomato;
+}
+#menu ul{
+    list-style: none;
+}
+#menu ul li{
+    display: inline-block;
+}
+#menu ul li a{
+    display: inline-block;
+    padding: 20px 10px;
+    margin-top:10px;
+    color: white;
+}
+#men li a:hover{
+    background:rgba(223, 47, 16, 0.781);
+}
+#logo{
+ font-size: 15px;
+ padding-top:10px;
+}
+#slider{
+    padding: 70px 0px;
+    background: url('img/banner3.jpg') no-repeat 0 0 ;
+    background-size: cover;
+}
+#h2h{
+    background: rgba(255, 255, 255, 0.719);
+    display: inline-block;
+}
+#pgp{
+    background:rgba(252, 82, 53, 0.5);
+    color: white;
+}
+#lg1 img{
+    display: block;
+    margin: auto;
+}
+#lg1 h3{
+    text-align: center;
+}
+#lg1 p{
+text-align: center;
+}
+
+#lg2 img{
+    display: block;
+    margin: auto;
+}
+#lg2 h3{
+    text-align: center;
+}
+#lg2 p{
+text-align: center;
+}
+
+#lg3 img{
+    display: block;
+    margin: auto;
+}
+#lg3 h3{
+    text-align: center;
+}
+#lg3 p{
+text-align: center;
+}
+#ico{
+    padding: 70px 0px;
+}
+#sh{
+    text-align: center;
+
+}
+#rw1{
+    padding: 20px 0px;
+}
+#sh::after{
+    background:rgba(255, 99, 71, 0.836);
+    content: " ";
+    height: 4px;
+    display: block;
+    margin: 25px auto;
+    width: 100px;
+}
+#test{
+    background:url('img/banner2.jpg') no-repeat 0 0;
+    background-size: cover;
+    
+}
+#ttt{
+    color: white;
+    
+}
+#ttt::after{
+    background: tomato;
+    content: " ";
+    display: block;
+    height: 3px;
+    width: 100px;
+    margin: 20px auto;
+}
+#lm1{
+    color: white;
+    justify-content: center;
+}
+.author{
+    color: rgba(255, 99, 71, 0.801);
+}
+.company{
+    color: rgba(255, 99, 71, 0.863);
+}
+#recent{
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+#rcr{
+    margin-top: 70px;
+}
+#rch::after{
+    background: tomato;
+    display: block;
+    content: " ";
+    height: 4px;
+    width: 80px;
+    margin: 20px auto;
+}
+#anc{
+    color: tomato;
+}
+
+
+}
+#ft1::after{
+    background: white;
+    display: block;
+    content: " ";
+    height: 2px;
+    width: 80px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#footers{
+    background-color: #34495e;
+}
+#pg{
+    color: white;
+    margin-bottom: 70px;
+
+}
+#ft1{
+    color: white;
+    margin-top: 70px;
+}
+#footer{
+    background:#263442;
+}
+#h5{
+    color: white;
+}
